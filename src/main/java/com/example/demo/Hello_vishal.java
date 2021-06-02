@@ -1,13 +1,8 @@
 package com.example.demo;
 
-import java.util.Scanner;
 public class Hello_vishal {
     public void hello()
     {
         System.out.println("Hello Vishal This is for sample");
-         System.out.println("Hello Vishal ");
-          System.out.println("Hello Vishal ones again");
-         System.out.println("Hello Vishal Patidar");
-          System.out.println("Hello jiiii");
     }
 }
