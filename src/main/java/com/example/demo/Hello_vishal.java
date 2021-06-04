@@ -1,6 +1,7 @@
 package com.example.demo;
 
 import java.util.Scanner;
+import java.util.*;
 public class Hello_vishal {
     public void hello()
     {
