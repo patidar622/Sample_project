@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Hello_vishal {
     public void hello()
     {
-        System.out.println("Hello Vishal This is for sample");
-         System.out.println("Hello Vishal This is for sample1");
+       java.util.logging.Logger logger =  java.util.logging.Logger.getLogger(this.getClass().getName());
+            logger.info("This is an info message hello ");
         System.out.println("Hello, World!");
          System.out.println("Hello, World! last time checking");
         System.out.println("Hello vishal testing 123 ");
